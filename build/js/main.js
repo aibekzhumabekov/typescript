@@ -1,0 +1,21 @@
+"use strict";
+let myName = "Aibek Aseinov";
+let username = "@devcraftz";
+let yearsOfExperience;
+let isLoading;
+let album;
+myName = 'John';
+yearsOfExperience = 5;
+isLoading = true;
+album = 5150;
+let a = 12;
+let b = '6';
+let c = 2;
+console.log(a / b);
+const sum = (a, b) => {
+    return a + b;
+};
+let postId;
+let isActive;
+let re = /\w+/g;
+console.log(username);
